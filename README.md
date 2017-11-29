@@ -15,6 +15,10 @@
 * Mongoose
 * MongoDB
 
+#### Other Services
+* Braintree
+* Ebanx
+
 #### General Requirements
 * Git / Github
 * Yarn
