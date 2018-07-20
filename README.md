@@ -15,9 +15,9 @@
 * Mongoose
 * MongoDB
 
-#### Other Services
-* Braintree
-* Ebanx
+#### Payment Services
+* Stripe (Primary)
+* Ebanx 
 
 #### General Requirements
 * Git / Github
